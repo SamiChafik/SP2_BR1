@@ -34,6 +34,7 @@ header {
 button {
     border: none;
     font-size: 18px;
+    background-color: white;
 }
 
 button:hover {
@@ -49,7 +50,7 @@ button:hover {
 }
 #log_in:hover {
     color: black;
-    background-color: rgb(209, 150, 13);
+    background-color: rgb(214, 151, 3);
 }
 
 #sign_up {
